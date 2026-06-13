@@ -10,7 +10,7 @@ A full-stack interactive learning platform for tech students and early-career de
 |-------|-----------|
 | Framework | TanStack Start (React, SSR) |
 | Styling | Tailwind CSS v4 |
-| Auth | Netlify Identity (`@netlify/identity`) |
+| Auth | Sujithakavala|
 | Database | Netlify Database (Postgres via Drizzle ORM) |
 | Hosting | Netlify |
 
